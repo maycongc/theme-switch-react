@@ -6,9 +6,9 @@
 
 <h3 align="center">
   Application link:
-  <a>
+  <a href="https://maycongc.github.io/theme-switch-react">
     Theme Switch
-  </a href="https://maycongc.github.io/theme-switch-react">
+  </a>
 </h3>
 <br/>
 
