@@ -4,8 +4,9 @@
 
 <center>
 
-### Application link: [Theme Switch](https://maycongc.github.io/theme-switch-react)
-</center>
+<h3 align="center">
+  Application link: <a>Theme Switch</a href="https://maycongc.github.io/theme-switch-react">
+</h3>
 <br/>
 
 ## 🎨 Layout
