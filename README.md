@@ -2,13 +2,19 @@
   <strong>Theme Switch</strong>
 </h1> 
 
+<center>
+
+### Application link: [Theme Switch](https://maycongc.github.io/theme-switch-react)
+</center>
+<br/>
+
 ## 🎨 Layout
 
 ![light](.github/light.png)
 ![dark](.github/dark.png)
 
 ## ✅ Feature
-- Change theme
+- Change the application theme
 
 ## 🧰 Tools
 
