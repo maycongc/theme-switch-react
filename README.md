@@ -13,9 +13,11 @@
 <br/>
 
 ## 🎨 Layout
+<div>
+  <img src=".github/light.png" alt="Layout light theme" width="50%" />
+  <img src=".github/dark.png" alt="Layout lidarkght theme" width="50%" />
+</div>
 
-![light](.github/light.png)
-![dark](.github/dark.png)
 
 ## ✅ Feature
 - Change the application theme
