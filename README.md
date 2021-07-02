@@ -13,7 +13,7 @@
 <br/>
 
 ## 🎨 Layout
-<div>
+<div display="flex">
   <img src=".github/light.png" alt="Layout light theme" width="50%" />
   <img src=".github/dark.png" alt="Layout lidarkght theme" width="50%" />
 </div>
